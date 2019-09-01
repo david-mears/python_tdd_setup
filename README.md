@@ -6,4 +6,4 @@ Running a test suite:
 
 Running the test file:
 
-`python -m unittest <filename>`
+`python <filename>`
